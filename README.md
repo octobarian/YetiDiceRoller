@@ -5,6 +5,6 @@
 •	Allows user to create packages of Dice and roll them with a single click
 •	Integrates with Google Mobile ads
 
-Check out the Live Example Here:
+Project Management: Please view the item 'dice-roller.docx' to see the entire project outline for this app
+App Development: As their is no easy way to host a Flutter/dart App on an online resource, please request to see the development
 
-http://www.tabletopdiceroller.up.railway.app
